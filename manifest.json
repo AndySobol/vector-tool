@@ -1,0 +1,7 @@
+{
+  "name": "Vector Tools Beta",
+  "api": "1.0.0",
+  "main": "build/code.js",
+  "ui": "build/ui.html",
+  "editorType": ["figma"]
+}
